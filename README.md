@@ -1,5 +1,5 @@
 
-![SB_CAN_ToolHead](assets/SB_CAN_ToolHead_V11.jpg)
+![SB_CAN_ToolHead](assets/SB CAN ToolHead2_V11.jpg)
 
 # Introduction
 
