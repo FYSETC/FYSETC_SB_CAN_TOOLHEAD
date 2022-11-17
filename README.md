@@ -10,8 +10,7 @@ The SB CAN Tool Board is a highly integrated printhead control board. Based on S
 - Based on STM32F072
 - Onboard 1M CAN transceiver
 - Onboard TMC2209
-- 1x 1A MAX PWM interface for controllable fan (default 5V power supply, VIN optional)
-- 1x 1A MAX PWM interface for controllable fan (default VIN power supply, 5V optional)
+- 2x 0.5A MAX PWM interface for controllable fan (default VIN power supply, 5V optional)
 - 1x signal input interface (VIN power supply, with level conversion)
 - 2x signal input and output interface (5V power supply, with pull-up resistor)
 - 1X 5V single wire RGB interface (1A MAX)
@@ -21,6 +20,7 @@ The SB CAN Tool Board is a highly integrated printhead control board. Based on S
 - 1x Micro USB for firmware uploading
 - Comes with 2.5m 4-core cable, 2x16AWG+2x24AWG
 - Comes with terminal housing and wire crimping tabs
+
 
 
 # Where to Buy
