@@ -1,4 +1,3 @@
-
 ![SB_CAN_ToolHead](assets/SB_CAN_ToolHead_V11.jpg)
 
 # Introduction
@@ -21,8 +20,6 @@ The SB CAN Tool Board is a highly integrated printhead control board. Based on S
 - Comes with 2.5m 4-core cable, 2x16AWG+2x24AWG
 - Comes with terminal housing and wire crimping tabs
 
-
-
 # Where to Buy
 
 Taobao
@@ -30,6 +27,10 @@ Taobao
 Aliexpress
 
 Official website
+
+# Docs
+
+Check our wiki: [SB CAN TH - FYSETC WIKI](https://wiki.fysetc.com/SB%20CAN%20ToolHead/)
 
 # Contact US
 
