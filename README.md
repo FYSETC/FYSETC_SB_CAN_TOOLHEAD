@@ -4,7 +4,7 @@
 
 The SB CAN Tool Board is a highly integrated printhead control board. Based on STM32F072, running Klipper firmware. Onboard TMC2209 stepper motor driver, AXL345 acceleration sensor, and other necessary interfaces. And comes with a 2.5m 4-core cable for easy out-of-the-box use.
 
-This fork of Fysetc's git fixes up the Clockwork2 cable cover so it is flat on the build plate. Prior version had the added cable clip slightly below the rest of the part.
+
 
 # Feature
 
